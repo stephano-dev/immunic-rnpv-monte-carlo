@@ -1,0 +1,7 @@
+item,shares_m,strike_usd,dilutes_in,method,source
+common_stock,13.644467,,both,full,10-Q Q2 2026 p.3
+pre_funded_warrants,28.885482,0.001,both,full,10-Q Q2 2026 p.14/19
+common_warrants_feb2026,22.907600,8.73,success,full + cash,10-Q Q2 2026 p.19/20
+series_b_warrants,3.357967,7.50,success,full + cash,10-Q Q2 2026 p.19; strike 10-K p.109 x10
+stock_options,6.150494,11.79,success,treasury stock,10-Q Q2 2026 p.19/24
+sars,0.904450,7.65,success,treasury stock,10-Q Q2 2026 p.19/26
